@@ -9,8 +9,14 @@
     {
       "text": "What the hell",
       "day": "2021",
-      "reminder": true,
+      "reminder": false,
       "id": 2
+    },
+    {
+      "text": "Jesus Christ",
+      "day": "2021",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
