@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Der vielgerühmte Streiter des Lichts ist endlich hier? Soll ich Frostgram niederlegen und mich Eurer Gnade ausliefern, Fordring?",
+      "day": "2021-05-13 Thursday 10:15am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "What the hell",
+      "day": "2021",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
