@@ -17,6 +17,12 @@
       "day": "2021",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Able to run this project on different PC now. Thanks to github.",
+      "day": "2021.05.13th Donnerstag",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
