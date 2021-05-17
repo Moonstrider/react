@@ -1,27 +1,27 @@
 {
   "tasks": [
     {
-      "text": "Der vielgerühmte Streiter des Lichts ist endlich hier? Soll ich Frostgram niederlegen und mich Eurer Gnade ausliefern, Fordring?",
-      "day": "2021-05-13 Thursday 10:15am",
-      "reminder": true,
+      "text": "Get knowing about the project and start local environment.",
+      "day": "First",
+      "reminder": false,
       "id": 1
     },
     {
-      "text": "What the hell",
-      "day": "2021",
+      "text": "Start the first sprint25, get first four tasks. And have three free days.",
+      "day": "Second",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "Jesus Christ",
-      "day": "2021",
+      "text": "Finish coding of the first sprint25 tasks. Weekend. Pick up the girl at Institute of Technology on Saturday. Take her to school on Sunday.",
+      "day": "Third",
       "reminder": false,
       "id": 3
     },
     {
-      "text": "Able to run this project on different PC now. Thanks to github.",
-      "day": "2021.05.13th Donnerstag",
-      "reminder": true,
+      "text": "Finish sprint25. Start sprint 26 but the task is intriguing and flexible. Api score task. Weekend. See a teacher at MinHang. Go to have dinner. Take the girl to airport. See a girl.",
+      "day": "Fourth",
+      "reminder": false,
       "id": 4
     }
   ]
