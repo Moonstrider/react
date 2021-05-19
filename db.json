@@ -25,10 +25,16 @@
       "id": 4
     },
     {
-      "text": "Start learn html5 video",
-      "day": " Fifth day 2",
+      "text": "Start learn HTML5 video",
+      "day": "Fifth day 2",
       "reminder": false,
       "id": 5
+    },
+    {
+      "text": "Start learn CSS video",
+      "day": "Fifth day 3",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
