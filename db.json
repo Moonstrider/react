@@ -35,6 +35,12 @@
       "day": "Fifth day 3",
       "reminder": false,
       "id": 6
+    },
+    {
+      "text": "Report task to Jimmy and continue JS video",
+      "day": "Fifth day 4",
+      "reminder": false,
+      "id": 7
     }
   ]
 }
