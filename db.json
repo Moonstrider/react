@@ -2,45 +2,33 @@
   "tasks": [
     {
       "text": "Get knowing about the project and start local environment.",
-      "day": "First",
+      "day": "First 4.19-4.23",
       "reminder": false,
       "id": 1
     },
     {
       "text": "Start the first sprint25, get first four tasks. And have three free days.",
-      "day": "Second",
+      "day": "Second 4.26-4.30",
       "reminder": false,
       "id": 2
     },
     {
       "text": "Finish coding of the first sprint25 tasks. Weekend. Pick up the girl at Institute of Technology on Saturday. Take her to school on Sunday.",
-      "day": "Third",
+      "day": "Third 5.3-5.7",
       "reminder": false,
       "id": 3
     },
     {
       "text": "Finish sprint25. Start sprint 26 but the task is intriguing and flexible. Api score task. Weekend. See a teacher at MinHang. Go to have dinner. Take the girl to airport. See a girl.",
-      "day": "Fourth",
+      "day": "Fourth 5.10-5.14",
       "reminder": false,
       "id": 4
     },
     {
-      "text": "Start learn HTML5 video",
-      "day": "Fifth day 2",
+      "text": "Start learn HTML5, CSS, JS video. And fix some api score issue.",
+      "day": "Fifth 5.17-5.21",
       "reminder": false,
-      "id": 5
-    },
-    {
-      "text": "Start learn CSS and JS video",
-      "day": "Fifth day 3",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "Report task to Jimmy and continue JS video",
-      "day": "Fifth day 4",
-      "reminder": false,
-      "id": 7
+      "id": 8
     }
   ]
 }

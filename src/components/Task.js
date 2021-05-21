@@ -4,6 +4,7 @@ const Task = ({ task, onDelete, onToggle }) => {
     return (
         <div className={`task ${task.reminder ?
             'reminder' : ''}`} onDoubleClick={() => onToggle(task.id)}>
+            <p>{task.day}</p>
             <p>
                 {task.text}
                 <FaTimes style={{
@@ -11,7 +12,6 @@ const Task = ({ task, onDelete, onToggle }) => {
                     cursor: 'pointer'
                 }} onClick={() => onDelete(task.id)} />
             </p>
-            <p>{task.day}</p>
         </div>
     )
 }
