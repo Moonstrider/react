@@ -62,7 +62,7 @@ body {
 }
 
 .task.reminder {
-  border-right: 5px solid green;
+  border-right: 12px solid purple;
 }
 
 .task p {
