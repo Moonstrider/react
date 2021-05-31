@@ -35,6 +35,12 @@
       "day": "Sixth May 24-28",
       "reminder": false,
       "id": 9
+    },
+    {
+      "text": "Studying",
+      "day": "Seventh May 31 - Jun 4",
+      "reminder": false,
+      "id": 10
     }
   ]
 }
