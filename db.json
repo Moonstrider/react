@@ -1,46 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Get knowing about the project and start local environment.",
-      "day": "First Apr 19-23",
-      "reminder": false,
+      "text": "test test test test test test test test",
+      "day": "2020",
+      "reminder": true,
       "id": 1
     },
     {
-      "text": "Start the first sprint25, get first four tasks. And have three free days, the International Worker's Day.",
-      "day": "Second Apr 26-30",
+      "text": "test",
+      "day": "2021",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "Finish coding of the first sprint25 tasks. Weekend. Pick up the girl at Institute of Technology on Saturday. Take her to school on Sunday.",
-      "day": "Third May 3-7",
+      "text": "qweqwewqewq",
+      "day": "123",
       "reminder": false,
       "id": 3
-    },
-    {
-      "text": "Finish sprint25. Start sprint 26 but the task is intriguing and flexible. Api score task. Weekend. See a teacher at MinHang. Go to have dinner. Take the girl to airport. See a girl.",
-      "day": "Fourth May 10-14",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Start learn HTML5, CSS, JS video. And fix some api score issue.",
-      "day": "Fifth May 17-21",
-      "reminder": false,
-      "id": 8
-    },
-    {
-      "text": "Finish nps weekly email on Monday, hospital on Tuesday, new tasks on Wednesday.",
-      "day": "Sixth May 24-28",
-      "reminder": false,
-      "id": 9
-    },
-    {
-      "text": "Studying",
-      "day": "Seventh May 31 - Jun 4",
-      "reminder": false,
-      "id": 10
     }
   ]
 }

@@ -88,11 +88,13 @@ body {
 }
 
 .form-control input {
-  width: 100%;
+  background: rgba(253, 244, 255, 0.582);
+  width: 95%;
   height: 40px;
   margin: 5px;
   padding: 3px 7px;
   font-size: 17px;
+  border: 0;
 }
 
 .form-control-check {

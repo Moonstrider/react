@@ -18,17 +18,17 @@ function App() {
     }
 
     getTasks()
-    fetchNote()
+    // fetchNote()
   }, [])
 
   // fetch note from backend
-  const fetchNote = async () => {
-    const res = await fetch('http://127.0.0.1:6030/note/all')
-    const data = await res.json()
-    console.log(res)
-    console.log(data)
-    return data
-  }
+  // const fetchNote = async () => {
+  //   const res = await fetch('http://127.0.0.1:6030/note/all')
+  //   const data = await res.json()
+  //   console.log(res)
+  //   console.log(data)
+  //   return data
+  // }
 
   // fetch tasks data from server
   const fetchTasks = async () => {
