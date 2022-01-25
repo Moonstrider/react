@@ -32,7 +32,7 @@ function App() {
 
   // fetch tasks data from server
   const fetchTasks = async () => {
-    const res = await fetch('http://127.0.0.1:4000/tasks')
+    const res = await fetch('http://127.0.0.1:3500/tasks')
     const data = await res.json()
 
     return data
@@ -40,7 +40,7 @@ function App() {
 
   // fetch task data from server
   const fetchTask = async (id) => {
-    const res = await fetch(`http://127.0.0.1:4000/tasks/${id}`)
+    const res = await fetch(`http://127.0.0.1:3500/tasks/${id}`)
     const data = await res.json()
 
     return data
@@ -48,7 +48,7 @@ function App() {
 
   // Add Task
   const addTask = async (task) => {
-    const res = await fetch('http://127.0.0.1:4000/tasks',
+    const res = await fetch('http://127.0.0.1:3500/tasks',
       {
         method: 'POST',
         headers: {
@@ -68,7 +68,7 @@ function App() {
 
   // Delete Task
   const deleteTask = async (id) => {
-    await fetch(`http://127.0.0.1:4000/tasks/${id}`,
+    await fetch(`http://127.0.0.1:3500/tasks/${id}`,
       {
         method: 'DELETE',
       })
@@ -84,7 +84,7 @@ function App() {
       reminder: !taskToToggle.reminder
     }
 
-    const res = await fetch(`http://127.0.0.1:4000/tasks/${id}`,
+    const res = await fetch(`http://127.0.0.1:3500/tasks/${id}`,
       {
         method: 'PUT',
         headers: {
